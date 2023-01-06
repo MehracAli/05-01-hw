@@ -12,7 +12,7 @@
 .wrapper{
     text-align: center;
     border-radius: 5%;
-    background-color: aqua;
+    background-color: yellow;
     position: relative;
     width: 35%;
     height: 85%;
@@ -28,7 +28,7 @@
     height: 200px;
     transform-style: preserve-3d;
     transition: 1s;
-    box-shadow: 50px 50px 50px gray;
+    box-shadow: 40px 40px 40px rgba(0, 0, 0, 0.5);
 }
 .cube .wall{
     width: 100%;
@@ -125,7 +125,7 @@
     width: 300px;
     margin: 0 auto;
     bottom: 30px;
-    color: aqua;
+    color: yellow;
 }
 .name{
     display: inline-block;
