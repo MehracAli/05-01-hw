@@ -27,8 +27,7 @@
     width: 200px;
     height: 200px;
     transform-style: preserve-3d;
-    transition: 0.5s;
-    /* border-radius: 50%; */
+    transition: 1s;
     box-shadow: 50px 50px 50px gray;
 }
 .cube .wall{
